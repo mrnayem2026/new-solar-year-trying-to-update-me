@@ -104,3 +104,80 @@ header {
 }
 
 /*?====> My failures of previous year  section Styel End */
+
+
+/*?====> My Plans  section Styel Start */
+.my-plans {
+    margin: 0 230px 130px 230px;
+    text-align: center;
+}
+
+.my-plan-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 130px;
+}
+
+.my-plan-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-plan-card h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
+
+.my-plan-card P {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+
+}
+
+/*?====> My Plans section Styel End */
+
+/*?====> Awlays keep a positive mindsetsection Styel Start */
+/* .always-keep{
+    margin-bottom: 130px;
+    background-image: url(../images/watch.png),linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+} */
+
+.always-keep {
+    background-repeat: no-repeat;
+    margin: 200px 230px 130px 390px;
+    position: relative;
+    border-radius: 5px;
+}
+
+
+.always-keep-text {
+    position: absolute;
+    top: 76px;
+    left: 60px;
+}
+
+.always-keep-text h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+
+/*?====> Awlays keep a positive mindset section Styel End */
