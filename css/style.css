@@ -1,0 +1,106 @@
+/*! <<<<>>>> Google Fonts link  imports Start <<<<>>>>*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
+/*! <<<<>>>> Google Fonts link  imports End <<<<>>>>*/
+
+/*?====> Reuse able section Styel Start  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border-style: none;
+    font-family: 'Work Sans';
+    list-style: none;
+}
+
+.reuse-able-btn {
+    padding: 20px 25px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+/*?====> Reuse able section Styel End */
+
+
+/*?====> Header and Banner section Styel Start */
+header {
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    background-position: cover;
+}
+
+.banner-content {
+    height: 1000px;
+    text-align: right;
+    padding: 325px 230px 130px 0;
+}
+
+.banner-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+
+.banner-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin: 24px 0 32px 0;
+}
+
+/*?====> Header and Banner section Styel End */
+
+
+/*?====> My failures of previous year  section Styel Start */
+.my-failur {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 130px 322px 130px 206px;
+}
+
+.my-failur-context {
+    margin-top: 265px;
+    margin-left: 170px;
+}
+
+.my-failur-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.my-failur-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin: 24px 0 20px 0;
+}
+
+.my-failur ul li i {
+    margin-right: 12px;
+    color: #16D887;
+}
+
+.my-failur ul li {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+/*?====> My failures of previous year  section Styel End */
