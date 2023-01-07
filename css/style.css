@@ -181,3 +181,88 @@ header {
 }
 
 /*?====> Awlays keep a positive mindset section Styel End */
+
+
+/*?====> Future and Footer  section Styel Start */
+.future {
+    padding: 130px 290px;
+    background: #151414;
+
+    color: #F8F8F8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.future-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    padding-bottom: 16px;
+}
+
+.future-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.email {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 16px 0 24px 0;
+}
+
+.phone {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 32px;
+}
+
+.future-context ul {
+    display: flex;
+    gap: 20px;
+}
+
+.sub-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+}
+
+.subscriber input[type="email"] {
+    margin: 52px 0 38px 0;
+    padding: 22px 158px 22px 22px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    background: #151414;
+    color: #F3F3F3;
+}
+
+.subscriber ::placeholder {
+    color: #F3F3F3;
+}
+
+.subscriber input[type="submit"] {
+    display: block;
+    padding: 22px 36px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    background: #005FAC;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
+/*?====> Future and Footer section Styel End */
