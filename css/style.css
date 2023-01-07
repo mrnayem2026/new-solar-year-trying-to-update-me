@@ -163,15 +163,18 @@ header {
     line-height: 47px;
     margin-bottom: 130px;
 }
-.achieve-items{
+
+.achieve-items {
     display: flex;
     justify-content: space-evenly;
 }
-.achieve-item img{
+
+.achieve-item img {
     width: 100px;
     height: 100px;
 }
-.achieve-title{
+
+.achieve-title {
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
@@ -180,7 +183,8 @@ header {
     margin-bottom: 18px;
     margin-top: 10px
 }
-.achieve-description{
+
+.achieve-description {
     width: 300px;
     text-align: justify;
 }
@@ -203,17 +207,22 @@ header {
 } */
 
 .always-keep {
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
     margin: 200px 230px 130px 390px;
-    position: relative;
     border-radius: 5px;
+    /* background: red; */
+
 }
 
 
+
 .always-keep-text {
-    position: absolute;
-    top: 76px;
-    left: 60px;
+   padding: 60px 617px 60px 65px;
 }
 
 .always-keep-text h2 {
