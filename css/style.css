@@ -197,15 +197,6 @@ header {
 
 
 /*?====> Awlays keep a positive mindsetsection Styel Start */
-/* .always-keep{
-    margin-bottom: 130px;
-    background-image: url(../images/watch.png),linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%) ;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
-} */
-
 .always-keep {
     background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
     background-position: center;
@@ -215,8 +206,6 @@ header {
     height: 300px;
     margin: 200px 230px 130px 390px;
     border-radius: 5px;
-    /* background: red; */
-
 }
 
 
