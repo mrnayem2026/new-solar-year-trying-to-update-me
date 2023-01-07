@@ -147,6 +147,51 @@ header {
 
 /*?====> My Plans section Styel End */
 
+
+/*?====> I want to achieve 2023 years section Styel End */
+.achieve {
+    padding: 130px 230px;
+    background: #5BC0F8;
+    color: #F8F8F8;
+    text-align: center;
+}
+
+.achieve-titile {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 130px;
+}
+.achieve-items{
+    display: flex;
+    justify-content: space-evenly;
+}
+.achieve-item img{
+    width: 100px;
+    height: 100px;
+}
+.achieve-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 18px;
+    margin-top: 10px
+}
+.achieve-description{
+    width: 300px;
+    text-align: justify;
+}
+
+/*?====> I want to achieve 2023 years section Styel End */
+
+
+
+
+
+
 /*?====> Awlays keep a positive mindsetsection Styel Start */
 /* .always-keep{
     margin-bottom: 130px;
